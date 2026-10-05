@@ -1,0 +1,32 @@
+{
+  "test-session": {
+    "log_file": "C:\\Users\\Adithya\\amazon-clone-8x\\.agent-logs\\2026-10-05_07-57-00_test-session.md",
+    "exchange": 1,
+    "model": "test-model",
+    "last_prompt_time": "2026-10-05T07:57:00.591Z"
+  },
+  "01a10b13-5fbf-7181-95cb-026233714691": {
+    "log_file": "C:\\Users\\Adithya\\amazon-clone-8x\\.agent-logs\\2026-10-05_07-59-50_01a10b13-5fbf-7181-95cb-026233714691.md",
+    "exchange": 1,
+    "model": "gpt-6-luna",
+    "last_prompt_time": "2026-10-05T07:59:50.782Z"
+  },
+  "01a10b16-ed46-74d3-84e9-fa008f459697": {
+    "log_file": "C:\\Users\\Adithya\\amazon-clone-8x\\.agent-logs\\2026-10-05_08-03-47_01a10b16-ed46-74d3-84e9-fa008f459697.md",
+    "exchange": 1,
+    "model": "gpt-6-luna",
+    "last_prompt_time": "2026-10-05T08:03:47.990Z"
+  },
+  "01a10b18-9693-7382-bde5-ac6328bb1780": {
+    "log_file": "C:\\Users\\Adithya\\amazon-clone-8x\\.agent-logs\\2026-10-05_08-05-35_01a10b18-9693-7382-bde5-ac6328bb1780.md",
+    "exchange": 1,
+    "model": "gpt-6-luna",
+    "last_prompt_time": "2026-10-05T08:05:35.241Z"
+  },
+  "01a10b21-1011-7480-8b3f-d04e2a2abeab": {
+    "log_file": "C:\\Users\\Adithya\\amazon-clone-8x\\.agent-logs\\2026-10-05_08-14-53_01a10b21-1011-7480-8b3f-d04e2a2abeab.md",
+    "exchange": 1,
+    "model": "gpt-6-luna",
+    "last_prompt_time": "2026-10-05T08:14:53.318Z"
+  }
+}
